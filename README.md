@@ -3,7 +3,7 @@
 A one-page, interactive Power BI dashboard that analyzes sales performance of a grocery retail chain: what sells, where it sells, and how outlet size, location and type relate to sales, ratings and item visibility.
 
 **Tools:** Power BI · DAX · Power Query · Field parameters
-**Data:** 8,523 item sales records from 10 outlets (`Grocery Data.xlsx`, sheet "BlinkIT Grocery Data", 12 columns) – [TODO: add data source / link]
+**Data:** 8,523 item sales records from 10 outlets (`Grocery Data.xlsx`, sheet "BlinkIT Grocery Data", 12 columns)
 
 ## Business questions
 
@@ -16,7 +16,7 @@ A one-page, interactive Power BI dashboard that analyzes sales performance of a 
 
 KPI cards (total sales, average sales, number of items, average rating), a filter panel (outlet location type, outlet size, item type) with a *Clear all filters* button, and a measure switch (Total Sales / Average Sales / Number of Items / Average Rating) that changes the fat-content and item-type charts. Further visuals show sales by outlet establishment year, outlet size, outlet location tier and a comparison table by outlet type.
 
-![Dashboard](images/01_dashboard.png)
+![Dashboard](01_dashboard.png)
 
 ## Key findings
 
